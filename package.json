@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "name": "Lab1",
+    "name": "gfk",
     "devDependencies": {
         "grunt": "^0.4.5",
         "grunt-bower-task": "^0.4.0"

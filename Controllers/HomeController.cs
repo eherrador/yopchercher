@@ -14,8 +14,12 @@ namespace MvcSample.Web
         {
             User user = new User()
             {
-                Name = "My name",
-                Address = "My address"
+                Nombre = "Gfx | GeoMarketing",
+                Email = "eherrador@icloud.com",
+                Ciudad = "México, D.F.",
+                Facebook = "https://www.facebook.com/edgar.herrador",
+                Twitter = "@eherrador",
+                Github = "https://github.com/eherrador"
             };
 
             return user;

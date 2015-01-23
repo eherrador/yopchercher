@@ -6,8 +6,11 @@ namespace MvcSample.Web.Models
     {
         [Required]
         [MinLength(4)]
-        public string Name { get; set; }
-        public string Address { get; set; }
-        public int Age { get; set; }
+        public string Nombre { get; set; }
+        public string Email { get; set; }
+        public string Ciudad { get; set; }
+        public string Facebook { get; set; }
+        public string Twitter { get; set; }
+        public string Github { get; set; }
     }
 }
